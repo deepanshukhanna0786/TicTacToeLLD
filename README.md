@@ -23,8 +23,3 @@ This is a **Tic Tac Toe** game developed in **Java**, designed with a clean obje
 - **Strategy Pattern**: Used to switch between AI difficulty levels.
 - **Factory Pattern**: Dynamically creates Player objects.
 - **SOLID Principles**: Full adherence in class design and responsibilities.
-
----
-
-## 🗂️ Project Structure
-
